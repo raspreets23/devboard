@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_BASE_URL = "https://devboard-api.onrender.com/tasks";
+const API_BASE_URL = "https://devboard-api-shxo.onrender.com";
 
 const COLUMNS = [
   { id: "To Do", title: "To Do", badgeColor: "bg-amber-100 text-amber-800 border-amber-300", headerBorder: "border-amber-400" },
